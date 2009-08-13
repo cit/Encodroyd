@@ -242,9 +242,9 @@ class Encodroyd {
         dialog.Logo = icon;
         dialog.ProgramName = "Encodroyd";
         dialog.Version = "0.0.1.0";
-        dialog.Comments = "A video encoding software for a Android phone";
+        dialog.Comments = "A video encoding software for Android phones";
         dialog.Copyright = "Copyright 2009 Florian Adamsky";
-        dialog.Website = "http://www.cimitan.com/";
+        dialog.Website = "http://wiki.github.com/cit/Encodroyd";
         dialog.WebsiteLabel = "Visit Homepage"; 
         
         dialog.Run ();
