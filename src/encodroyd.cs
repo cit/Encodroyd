@@ -47,7 +47,7 @@ class Encodroyd {
         //Gtk.Frame dndFrame = new Gtk.Frame();
         Gtk.Frame prefFrame = new Gtk.Frame("Preferences");
         Gtk.Frame statusFrame = new Gtk.Frame("Status");
-        icon = new Pixbuf(null, "android.png");
+        icon = new Pixbuf(null, "encodroyd.png");
         Gtk.EventBox image = new Gtk.EventBox();
         Gtk.Label dropLabel = new Gtk.Label("Drop videos here\nto convert");
 

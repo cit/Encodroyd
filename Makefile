@@ -21,7 +21,7 @@ SOURCES = \
 
 # list of resource files
 RESOURCES = \
-	-resource:$(RES_DIR)/android.png\
+	-resource:$(RES_DIR)/encodroyd.png\
 
 $(APP_NAME):
 	$(MCS) $(MCS_FLAGES) $(RESOURCES) $(REF) -out:$(APP_NAME) $(SOURCES)
